@@ -1,0 +1,24 @@
+{
+	"assets": [
+		{
+			"id": "image1227",
+			"type": "external-image",
+			"src": "http://dummy.xtemos.com/woodmart2/megamarket/wp-content/uploads/sites/3/2022/06/hotspot-1.jpg"
+		},
+		{
+			"id": "image1592",
+			"type": "external-image",
+			"src": "http://dummy.xtemos.com/woodmart2/megamarket/wp-content/uploads/sites/3/2022/06/bathroom-product-20.jpg"
+		},
+		{
+			"id": "image1585",
+			"type": "external-image",
+			"src": "http://dummy.xtemos.com/woodmart2/megamarket/wp-content/uploads/sites/3/2022/06/flooring-product-7.jpg"
+		},
+		{
+			"id": "image1228",
+			"type": "external-image",
+			"src": "http://dummy.xtemos.com/woodmart2/megamarket/wp-content/uploads/sites/3/2022/06/hotspot-2.jpg"
+		}
+	]
+}

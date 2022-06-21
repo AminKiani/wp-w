@@ -1,0 +1,24 @@
+{
+	"assets": [
+		{
+			"id": "image1",
+			"type": "external-image",
+			"src": "http://dummy.xtemos.com/woodmart2/megamarket/wp-content/uploads/sites/3/2022/06/product-delivery-1.svg"
+		},
+		{
+			"id": "image2",
+			"type": "external-image",
+			"src": "http://dummy.xtemos.com/woodmart2/megamarket/wp-content/uploads/sites/3/2022/06/product-meny-products-1.svg"
+		},
+		{
+			"id": "image3",
+			"type": "external-image",
+			"src": "http://dummy.xtemos.com/woodmart2/megamarket/wp-content/uploads/sites/3/2022/06/product-support-1.svg"
+		},
+		{
+			"id": "image4",
+			"type": "external-image",
+			"src": "http://dummy.xtemos.com/woodmart2/megamarket/wp-content/uploads/sites/3/2022/06/product-quality-1.svg"
+		}
+	]
+}
